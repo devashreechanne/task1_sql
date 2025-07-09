@@ -1,0 +1,4 @@
+customer_id,product_id,quantity,total_price,discount
+1,2,3,9000.00,5.00
+2,1,1,75000.00,10.00
+3,3,2,50000.00,7.50
